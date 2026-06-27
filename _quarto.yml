@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Ludmilla Borges"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Aulas de Estatística e Planejamento de Experimentos"
+        href: PPEC039/PPEC039.qmd
+
+  page-footer:
+    left: "© Copyright 2026 Ludmilla Borges."
+
+format:
+  html:
+    theme: [sandstone]
+    css: styles.css

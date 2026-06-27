@@ -1,0 +1,33 @@
+---
+title: "Notebooks - PPEC039/2026.1"
+listing:
+    contents: 
+        - Aula 01/aula01.qmd
+        - Aula_02/aula02.qmd
+        - Aula_03/aula03.qmd
+        - Aula_04/aula04.qmd
+        - Aula_05/aula05.qmd
+        - Aula_06/aula06.qmd
+        - Aula_07/aula07.qmd
+        - Aula_08/aula08.qmd
+        - Aula_09/aula09.qmd
+    sort: date asc
+    type: default
+    sort-ui: false
+    filter-ui: false
+    feed: true
+page-layout: full
+title-block-banner: false
+---
+
+<style>
+.quarto-title-block .title {
+    text-align: center;
+}
+</style>
+
+::: {.column-page}
+
+Aqui estão disponíveis os notebooks desenvolvidos pelos alunos da disciplina de Estatística e Planejamento de Experimentos (PPEC039/2026.1) do Programa de Pós-Graduação em Engenharia Civil da Universidade Federal da Bahia (UFBA). O curso é ministrado pelo Prof. Dr. Mauro Alixandrini.
+
+:::
