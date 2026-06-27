@@ -1,0 +1,94 @@
+{
+  "index.qmd": {
+    "index.html": "3b344200"
+  },
+  "PPEC039/PPEC039.qmd": {
+    "PPEC039.html": "dc1622a3"
+  },
+  "PPEC039/Aula 01/aula01.qmd": {
+    "aula01.html": "abc82f82"
+  },
+  "PPEC039/Aula 01/Aula_de_Amostragem.ipynb": {
+    "Aula_de_Amostragem.html": "6e7bedb2"
+  },
+  "PPEC039/Aula 01/Amostragem/Aula_de_Amostragem.ipynb": {
+    "Aula_de_Amostragem.html": "0e448771",
+    "Aula_de_Amostragem.out.ipynb": "4581b815",
+    "Aula_de_Amostragem-preview.html": "88636cc1"
+  },
+  "PPEC039/Aula 02/aula02.qmd": {
+    "aula02.html": "d9db06e5"
+  },
+  "PPEC039/Aula 02/Distribuicao/Distribuicao_de_Probabilidade.ipynb": {
+    "Distribuicao_de_Probabilidade.out.ipynb": "af613e1c",
+    "Distribuicao_de_Probabilidade-preview.html": "8eaf0a7e"
+  },
+  "PPEC039/Aula 02/Distribuicao/dist_prop.ipynb": {
+    "dist_prop.out.ipynb": "31ef0cc0",
+    "dist_prop-preview.html": "b398181a"
+  },
+  "PPEC039/Aula_02/aula02.qmd": {
+    "aula02.html": "ed303802"
+  },
+  "PPEC039/Aula_02/distribuicao/dist_prob.ipynb": {
+    "dist_prob.out.ipynb": "240447d0",
+    "dist_prob-preview.html": "2c63a6a3",
+    "dist_prob.html": "b41dbf73"
+  },
+  "PPEC039/Aula_03/aula03.qmd": {
+    "aula03.html": "e5b2019a"
+  },
+  "PPEC039/Aula_03/estimativa/estimativa.ipynb": {
+    "estimativa.out.ipynb": "4d909331",
+    "estimativa-preview.html": "80077154",
+    "estimativa.html": "70120e10"
+  },
+  "PPEC039/Aula_04/aula04.qmd": {
+    "aula04.html": "981ae8a3"
+  },
+  "PPEC039/Aula_04/hipotese/test_hipo.ipynb": {
+    "test_hipo.out.ipynb": "975d2ca2",
+    "test_hipo-preview.html": "23c16f0b",
+    "test_hipo.html": "367b6644"
+  },
+  "PPEC039/Aula_05/aula05.qmd": {
+    "aula05.html": "b65e321b"
+  },
+  "PPEC039/Aula_05/homocedasticidade/norma_homo.ipynb": {
+    "norma_homo.out.ipynb": "9f8159ad",
+    "norma_homo-preview.html": "048f6add",
+    "norma_homo.html": "325ca62b"
+  },
+  "PPEC039/Aula_06/aula06.qmd": {
+    "aula06.html": "018c4210"
+  },
+  "PPEC039/Aula_06/regressao/regre_correlacao.ipynb": {
+    "regre_correlacao.out.ipynb": "0b8816eb",
+    "regre_correlacao-preview.html": "252d979e",
+    "regre_correlacao.html": "9de07992"
+  },
+  "PPEC039/Aula_07/anova/anova.ipynb": {
+    "anova.html": "604be78f",
+    "anova.out.ipynb": "1f17652e",
+    "anova-preview.html": "95149659"
+  },
+  "PPEC039/Aula_07/aula07.qmd": {
+    "aula07.html": "40e4adbb"
+  },
+  "PPEC039/Aula_08/aula08.qmd": {
+    "aula08.html": "cbe097ac"
+  },
+  "PPEC039/Aula_08/planejamento/experimentacao.ipynb": {
+    "experimentacao.out.ipynb": "e6d7dfba",
+    "experimentacao-preview.html": "6b5cafd4",
+    "experimentacao.html": "db5edb94"
+  },
+  "PPEC039/Aula_09/aula09.qmd": {
+    "aula09.html": "92ede128"
+  },
+  "PPEC039/Aula_09/plan_experimentos/plan_expe.ipynb": {
+    "plan_expe.out.ipynb": "305b434e",
+    "plan_expe-preview.html": "84292ed4",
+    "plan_expe.html": "8376f815"
+  }
+}

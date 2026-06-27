@@ -1,0 +1,19 @@
+---
+title: "03 - Aula de Estimativa e Correlação"
+description: |
+    Essa aula irá abordar os conceitos e exemplos de estimativa e correlação que fazem parte da estatística aplicada à pesquisa.
+author:
+  - name: Ludmilla Rodrigues Santana Borges
+    affiliation: Universidade Federal da Bahia (UFBA)
+    email: ludrsborges@gmail.com
+date: 2026-05-04
+categories: ["Estatística"]
+image: aula_est.jpg
+format:
+  html:
+    df-print: paged
+    toc: false
+google-scholar: false
+---
+
+{{< embed estimativa/estimativa.ipynb >}}

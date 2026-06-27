@@ -1,0 +1,19 @@
+---
+title: "09 - Aula de Planejamento de Experimentos"
+description: |
+    Essa aula irá abordar os conceitos e exemplos de Planejamento de Experimentos.
+author:
+  - name: Ludmilla Rodrigues Santana Borges
+    affiliation: Universidade Federal da Bahia (UFBA)
+    email: ludrsborges@gmail.com
+date: 2026-06-15
+categories: ["Estatística"]
+image: plan_exp.jpg
+format:
+  html:
+    df-print: paged
+    toc: false
+google-scholar: false
+---
+
+{{< embed plan_experimentos/plan_expe.ipynb >}}

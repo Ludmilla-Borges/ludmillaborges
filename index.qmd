@@ -1,0 +1,29 @@
+---
+title: "Ludmilla Borges"
+image: IMG_1196.jpg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/ludrsborges/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/Ludmilla-Borges"
+    - text: Email
+      url: "mailto:ludrsborges@gmail.com"
+    - text: Lattes
+      url: "http://lattes.cnpq.br/6295609064539112"
+comments: false
+---
+::: {.column-page}
+<div style="text-align: justify;">
+## Olá, pessoal!
+
+Sou Urbanista com especialização em Geotecnologias e atualmente faço parte da equipe técnica da gerencia de reassentamento do Projeto Novo Mané Dendê - Prefeitura Municipal de Salvador.<p>
+Também sou mestranda em Engenharia Civil na Universidade Federal da Bahia (UFBA), desenvolvendo a pesquisa intitulada de <b>“Modelo de dados geoespaciais para promoção de justiça socioespacial em projetos envolvendo desapropriação e reassentamento involuntário”</b>, com o objetivo de propor um modelo de dados geoespaciais que integre informações técnicas, territoriais e sociais, apoiando processos de tomada de decisão mais <b>justos, transparentes e informados </b> em projetos urbanos que envolvem <b>desapropriação e reassentamento involuntário</b>.<p>
+Possuo experiencia com geoprocessamento, sensoriamento remoto, banco de dados geoespacial e planejamento urbano. Utilizo ferramentas como <b>QGIS, ArcGIS PRO, PostgreSQL+PostGIS, AutoCAD,  Metashape PRO e Python</b> para automação e análises de dados geoespaciais. 
+
+<p></p> 
+</div>
+</div>
+:::

@@ -1,0 +1,19 @@
+---
+title: "05 - Aula de Teste de Normalidade e Homocedasticidade"
+description: |
+    Aula sobre a verificação das condições para garantir a validade das inferências estatísticas
+author:
+  - name: Bruna Taiana Almeida Brito
+    affiliation: Universidade Federal da Bahia (UFBA)
+    email: bruna.brito@ufba.com
+date: 2026-05-18
+categories: ["Estatística"]
+image: norma.jpg
+format:
+  html:
+    df-print: paged
+    toc: false
+google-scholar: false
+---
+
+{{< embed homocedasticidade/norma_homo.ipynb >}}
